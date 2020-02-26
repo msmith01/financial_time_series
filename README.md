@@ -1,4 +1,4 @@
-# Note: I discuss this past here: https://lf0.com/post/synth-real-time-series/financial-time-series/
+# Note: I discuss this post here: https://lf0.com/post/synth-real-time-series/financial-time-series/
 # time_series_detection
 A script to detect which financial time series are real verses which financial time series are false/synthetic. (stock price data)
 
